@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Chords/static/css/main.bce7d1ff.chunk.css",
+    "main.js": "/Chords/static/js/main.40b7665e.chunk.js",
+    "main.js.map": "/Chords/static/js/main.40b7665e.chunk.js.map",
+    "runtime-main.js": "/Chords/static/js/runtime-main.af29dec9.js",
+    "runtime-main.js.map": "/Chords/static/js/runtime-main.af29dec9.js.map",
+    "static/js/2.8a2d129e.chunk.js": "/Chords/static/js/2.8a2d129e.chunk.js",
+    "static/js/2.8a2d129e.chunk.js.map": "/Chords/static/js/2.8a2d129e.chunk.js.map",
+    "static/js/3.1116999e.chunk.js": "/Chords/static/js/3.1116999e.chunk.js",
+    "static/js/3.1116999e.chunk.js.map": "/Chords/static/js/3.1116999e.chunk.js.map",
+    "static/js/4.f4992569.chunk.js": "/Chords/static/js/4.f4992569.chunk.js",
+    "static/js/4.f4992569.chunk.js.map": "/Chords/static/js/4.f4992569.chunk.js.map",
+    "index.html": "/Chords/index.html",
+    "static/css/main.bce7d1ff.chunk.css.map": "/Chords/static/css/main.bce7d1ff.chunk.css.map",
+    "static/js/2.8a2d129e.chunk.js.LICENSE.txt": "/Chords/static/js/2.8a2d129e.chunk.js.LICENSE.txt",
+    "static/js/3.1116999e.chunk.js.LICENSE.txt": "/Chords/static/js/3.1116999e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.af29dec9.js",
+    "static/js/2.8a2d129e.chunk.js",
+    "static/css/main.bce7d1ff.chunk.css",
+    "static/js/main.40b7665e.chunk.js"
+  ]
+}
