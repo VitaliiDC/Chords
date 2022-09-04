@@ -6,6 +6,8 @@ import {useStyles} from './main.styles';
 
 const Main = props => {
 
+    console.log(props)
+
     const middleIndex = Math.ceil(props.notesButtons.length / 2);
 
     const firstHalfOfNotes = props.notesButtons.slice(0, middleIndex);
