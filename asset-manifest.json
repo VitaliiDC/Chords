@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Chords/static/css/main.073c9b0a.css",
+    "main.js": "/Chords/static/js/main.94773631.js",
+    "static/js/120.7579c3b2.chunk.js": "/Chords/static/js/120.7579c3b2.chunk.js",
+    "static/js/473.cee01a4d.chunk.js": "/Chords/static/js/473.cee01a4d.chunk.js",
+    "index.html": "/Chords/index.html",
+    "main.073c9b0a.css.map": "/Chords/static/css/main.073c9b0a.css.map",
+    "main.94773631.js.map": "/Chords/static/js/main.94773631.js.map",
+    "120.7579c3b2.chunk.js.map": "/Chords/static/js/120.7579c3b2.chunk.js.map",
+    "473.cee01a4d.chunk.js.map": "/Chords/static/js/473.cee01a4d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.94773631.js"
+  ]
+}
